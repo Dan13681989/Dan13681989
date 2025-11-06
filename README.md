@@ -8,9 +8,15 @@
 - **Tools:** Git, GitHub, Docker
 
 ### 📫 Connect with me
-- Email: [your-email]
-- LinkedIn: [your-linkedin]
+- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn Profile Name]
+- Portfolio: [Your portfolio URL if you have one]
+
+### 🔭 Currently Working On
+- macOS optimization tools
+- Test automation frameworks
+- Open source projects
 
 ---
 
-*Check out my repositories below! ⭐️*
+*Check out my repositories below! ⭐️
