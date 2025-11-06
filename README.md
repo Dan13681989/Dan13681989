@@ -22,6 +22,10 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 📊 GitHub Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan13681989&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan13681989&layout=compact)
+
 ---
 
 *Check out my repositories below! ⭐️
