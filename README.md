@@ -20,3 +20,5 @@
 ---
 
 *Check out my repositories below! ⭐️
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan13681989&show_icons=true)
