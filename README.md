@@ -1,4 +1,16 @@
 # Hi there, I'm Dan! 👋
 
-### 🚀 About Me
-I'm a developer passionate about test automation and Python development.
+**Software Developer | Test Automation Engineer**
+
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript
+- **Testing:** Selenium, Pytest
+- **Tools:** Git, GitHub, Docker
+
+### 📫 Connect with me
+- Email: [your-email]
+- LinkedIn: [your-linkedin]
+
+---
+
+*Check out my repositories below! ⭐️*
