@@ -31,3 +31,7 @@
 *Check out my repositories below! ⭐️
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan13681989&show_icons=true)
+
+### 🛠️ Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
