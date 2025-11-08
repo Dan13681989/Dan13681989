@@ -8,9 +8,8 @@
 - **Tools:** Git, GitHub, Docker
 
 ### 📫 Connect with me
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile Name]
-- Portfolio: [Your portfolio URL if you have one]
+- Email: My github (DM me)
+
 
 ### 🔭 Currently Working On
 - macOS optimization tools
