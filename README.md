@@ -19,4 +19,4 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Dan13681989/Dan13681989)
 ![GitHub followers](https://img.shields.io/github/followers/Dan13681989?label=Follow&style=social)
 
-📫 Reach me: [your-email@example.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
+
