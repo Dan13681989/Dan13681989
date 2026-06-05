@@ -1,4 +1,29 @@
-# Hi there, I'm Dan! 👋
+# 👋 Hi there, I'm Dan!
+
+**Software Developer | Bioinformatics & AI Systems | macOS Tools**
+
+- 🔭 I’m currently working on 
+[CleanMac-Pro](https://github.com/Dan13681989/CleanMac-Pro) – advanced 
+macOS cleanup utility
+- 🧬 Exploring population genetics & Crohn's disease → 
+[crohn-disease-popgen](https://github.com/Dan13681989/crohn-disease-popgen)
+- 🤖 Building [cortex-moe](https://github.com/Dan13681989/cortex-moe) – 
+mixture-of-experts inference
+
+## 🚀 Featured projects
+| Project | Description |
+|---------|-------------|
+| 
+[crohn-disease-popgen](https://github.com/Dan13681989/crohn-disease-popgen) 
+| Population genetics analysis for Crohn's disease |
+| [CleanMac-Pro](https://github.com/Dan13681989/CleanMac-Pro) | Modern 
+macOS cleaner with GUI & automation |
+| [cortex-moe](https://github.com/Dan13681989/cortex-moe) | Lightweight 
+MoE inference engine |
+
+📫 Reach me: [your-email@example.com] | 
+[LinkedIn](https://linkedin.com/in/yourprofile)# Hi there, I'm Dan! 
+👋
 
 **Software Developer | Test Automation Engineer**
 
