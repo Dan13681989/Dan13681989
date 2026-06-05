@@ -53,7 +53,12 @@ MoE inference engine |
 
 *Check out my repositories below! ⭐️
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan13681989&show_icons=true)
+## 📊 GitHub Stats
+
+![Dan's GitHub 
+stats](https://github-readme-stats.vercel.app/api?username=Dan13681989&show_icons=true&theme=dark&hide_border=true)
+![Top 
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan13681989&layout=compact&theme=dark&hide_border=true))
 
 ### 🛠️ Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
