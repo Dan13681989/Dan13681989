@@ -21,8 +21,7 @@ macOS cleaner with GUI & automation |
 | [cortex-moe](https://github.com/Dan13681989/cortex-moe) | Lightweight 
 MoE inference engine |
 
-📫 Reach me: [your-email@example.com] | 
-[LinkedIn](https://linkedin.com/in/yourprofile)# Hi there, I'm Dan! 
+# Hi there, I'm Dan! 
 👋
 
 **Software Developer | Test Automation Engineer**
