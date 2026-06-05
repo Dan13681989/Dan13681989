@@ -15,9 +15,8 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dan13681989&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan13681989&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-*Stats may take a few seconds to load – refresh if needed.*
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Dan13681989/Dan13681989)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dan13681989/Dan13681989)
+![GitHub followers](https://img.shields.io/github/followers/Dan13681989?label=Follow&style=social)
 
 📫 Reach me: [your-email@example.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
